@@ -10,7 +10,7 @@ const APP_STATIC_RESOURCES = [
     "/index.html",
     "/app.js",
     "/styles.css",
-    "/icons/manifest-icon-512.maskable.png"
+    "/icons/circle.png"
 ];
 
 // On install, cache the static resources
